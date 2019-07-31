@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using CaFactory2;
+//using CaFactory2;
 
 
 namespace Calculator2
